@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, sou André Nicolas</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedor%20Web-FullStack-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Analista%20de%20Dados-Em%20Desenvolvimento-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Desenvolvedor%20Web-Web-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Analista%20de%20Dados-green?style=flat-square" />
 </p>
 
 <p align="center">
