@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Desenvolvedor%20-Web-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Analista%20de%20Dados-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Analista%20de-Dados-green?style=flat-square" />
 </p>
 
 <p align="center">
