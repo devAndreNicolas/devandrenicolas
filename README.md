@@ -14,8 +14,8 @@
 
 - 🎓 **Formação**: Estudante de Sistemas para Internet na Universidade Estadual de Ciências da Saúde de Alagoas (UNCISAL).
 - 🌍 **Localização**: Maceió, Alagoas, Brasil.
-- 💼 **Profissão**: Desenvolvedor Web e de Software.
-- 🚀 **Interesses**: Desenvolvimento Web, Desenvolvimento de Software e Análise de Dados.
+- 💼 **Profissão**: Engenheiro de UX e Desenvolvedor Frontend.
+- 🚀 **Interesses**: Engenheiro de UX e Desenvolvimento Frontend.
 
 ---
 
