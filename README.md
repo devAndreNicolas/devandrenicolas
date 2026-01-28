@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,ts,js,python,nodejs,firebase,git,tailwind,html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=angular,next,nest,ts,js,python,cloudflare,sqlite,firebase,git,html,css,tailwind" />
   </a>
 </div>
 
@@ -34,10 +34,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devAndreNicolas&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0D1117&text_color=61DAFB&icon_color=61DAFB" alt="Estatísticas do GitHub de André Nicolas" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAndreNicolas&layout=compact&theme=react&hide_border=true&bg_color=0D1117&text_color=61DAFB&icon_color=61DAFB" alt="Linguagens Mais Usadas por André Nicolas" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAndreNicolas&theme=react&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&date_color=61DAFB&currStreakLabel=61DAFB" alt="Estatísticas de streak de commits de André Nicolas" />
 </div>
 
 ---
