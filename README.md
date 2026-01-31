@@ -32,8 +32,14 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devAndreNicolas&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0D1117&text_color=61DAFB&icon_color=61DAFB" alt="Estatísticas do GitHub de André Nicolas" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAndreNicolas&layout=compact&theme=react&hide_border=true&bg_color=0D1117&text_color=61DAFB&icon_color=61DAFB" alt="Linguagens Mais Usadas por André Nicolas" />
+  <img height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api?username=devAndreNicolas&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0D1117&title_color=61DAFB&text_color=61DAFB&icon_color=61DAFB"
+    alt="GitHub Stats - André Nicolas"
+  />
+  <img height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devAndreNicolas&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=61DAFB"
+    alt="Top Languages - André Nicolas"
+  />
 </div>
 
 ---
