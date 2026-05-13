@@ -4,7 +4,7 @@
 
 # 👨‍💻 André Nicolas | @devAndreNicolas
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=435&lines=Engenheiro+de+Software+Frontend;Estudante+de+Sistemas+para+Internet;Apaixonado+por+Tecnologia+e+Inovação)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=435&lines=Engenheiro+Frontend;Estudante+de+Sistemas+para+Internet;Apaixonado+por+Tecnologia+e+Inovação)](https://git.io/typing-svg)
   
 </div>
 
@@ -14,7 +14,7 @@
 
 - 🎓 **Formação**: Estudante de Sistemas para Internet na Universidade Estadual de Ciências da Saúde de Alagoas (UNCISAL).
 - 🌍 **Localização**: Maceió, Alagoas, Brasil.
-- 💼 **Profissão**: Engenheiro de Software Frontend.
+- 💼 **Profissão**: Engenheiro Frontend.
 - 🚀 **Interesses**: UX Engineering, Arquitetura Front-end, Design Systems, Acessibilidade Web, IA aplicada à UX
 
 ---
