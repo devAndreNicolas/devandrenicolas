@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img height="180em"
