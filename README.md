@@ -4,22 +4,22 @@
 
 # 👨‍💻 André Nicolas | @devAndreNicolas
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=435&lines=Engenheiro+Frontend;Estudante+de+Sistemas+para+Internet;Apaixonado+por+Tecnologia+e+Inovação)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=435&lines=Frontend+Engineer;Internet+Systems+Student;Passionate+about+Technology+and+Innovation)](https://git.io/typing-svg)
   
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-- 🎓 **Formação**: Estudante de Sistemas para Internet na Universidade Estadual de Ciências da Saúde de Alagoas (UNCISAL).
-- 🌍 **Localização**: Maceió, Alagoas, Brasil.
-- 💼 **Profissão**: Engenheiro Frontend.
-- 🚀 **Interesses**: UX Engineering, Arquitetura Front-end, Design Systems, Acessibilidade Web, IA aplicada à UX
+- 🎓 **Education**: Internet Systems student at the State University of Health Sciences of Alagoas (UNCISAL).
+- 🌍 **Location**: Maceió, Alagoas, Brazil.
+- 💼 **Profession**: Frontend Engineer.
+- 🚀 **Interests**: UX Engineering, Frontend Architecture, Design Systems, Web Accessibility, and AI applied to UX.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   <img height="180em"
@@ -44,7 +44,7 @@
 
 ---
 
-## 🔗 Contato
+## 🔗 Contact
 
 - 📧 [devandrenicolas@gmail.com](mailto:devandrenicolas@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/devandrenicolas/)
@@ -52,4 +52,4 @@
 
 ---
 
-> 🚀 Sempre aprendendo e explorando novas tecnologias para criar soluções inovadoras!
+> 🚀 Always learning and exploring new technologies to create innovative solutions!
