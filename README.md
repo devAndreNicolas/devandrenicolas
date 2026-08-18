@@ -4,7 +4,7 @@
 
 # André Nicolas | @devAndreNicolas
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=435&lines=Frontend+Engineer;Internet+Systems+Student;Passionate+about+Technology+and+Innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=435&lines=Frontend+Engineer;Internet+Systems+Student)](https://git.io/typing-svg)
   
 </div>
 
