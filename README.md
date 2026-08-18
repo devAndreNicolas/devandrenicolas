@@ -48,7 +48,6 @@
 
 - 📧 [devandrenicolas@gmail.com](mailto:devandrenicolas@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/devandrenicolas/)
-- 📸 [Instagram](https://www.instagram.com/andrenicolas__/)
 
 ---
 
