@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👨‍💻 André Nicolas | @devAndreNicolas
+# André Nicolas | @devAndreNicolas
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=435&lines=Frontend+Engineer;Internet+Systems+Student;Passionate+about+Technology+and+Innovation)](https://git.io/typing-svg)
   
@@ -10,16 +10,16 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 **Education**: Internet Systems student at the State University of Health Sciences of Alagoas (UNCISAL).
-- 🌍 **Location**: Maceió, Alagoas, Brazil.
-- 💼 **Profession**: Frontend Engineer.
-- 🚀 **Interests**: UX Engineering, Frontend Architecture, Design Systems, Web Accessibility, and AI applied to UX.
+- **Education**: Internet Systems student at the State University of Health Sciences of Alagoas (UNCISAL).
+- **Location**: Maceió, Alagoas, Brazil.
+- **Profession**: Frontend Engineer.
+- **Interests**: UX Engineering, Frontend Architecture, Design Systems, Web Accessibility, and AI applied to UX.
 
 ---
 
-## 🛠️ Technologies and Tools
+## Technologies and Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -44,7 +44,7 @@
 
 ---
 
-## 🔗 Contact
+## Contact
 
 - 📧 [devandrenicolas@gmail.com](mailto:devandrenicolas@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/devandrenicolas/)
