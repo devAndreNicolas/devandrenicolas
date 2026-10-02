@@ -1,114 +1,75 @@
 <div align="center">
 
-# André Nicolas | @devAndreNicolas
+# André Nicolas
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=3584E4\&center=true\&vCenter=true\&random=false\&width=550\&lines=Frontend+Engineer;UX+%26+Frontend+Architecture;TypeScript+%7C+React+%7C+Angular;Building+intuitive+digital+products)](https://git.io/typing-svg)
+### Full Stack Engineer · TypeScript · React · Angular · Product Systems
 
-</div>
-
----
-
-## About Me
-
-I'm a **Frontend Engineer** focused on building intuitive, maintainable and high-quality digital products.
-
-My work sits at the intersection of **engineering, UX and product** — from frontend architecture and design systems to backend integration and infrastructure.
-
-My main experience is with **TypeScript, React and Angular**, with additional experience in **Golang, APIs, databases, cloud infrastructure and CI/CD**.
-
-I enjoy understanding not only **how something should be built**, but also **how users will experience it**.
-
----
-
-## Tech Stack
-
-### Frontend
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,react,angular,next,tailwind,html,css" />
-</a>
+[Portfolio](https://portfolio-andrenicolas.vercel.app) · [LinkedIn](https://www.linkedin.com/in/devandrenicolas/) · [Email](mailto:devandrenicolas@gmail.com)
 
 </div>
 
-### Backend & Infrastructure
+## About
 
-<div align="center">
+I’m a **Full Stack Engineer** focused on building reliable web products from requirements and business rules through implementation, testing, and production support.
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=golang,nest,postgresql,cloudflare,firebase,git,github" />
-</a>
+At **MSPA**, I contribute to privacy, LGPD-compliance, and digital-auditing SaaS surfaces used by **10+ companies**. My work connects product context to delivery across interfaces, APIs, data, and platform concerns.
 
-</div>
+I work with **TypeScript, Angular, React, Signals, RxJS, Next.js, Astro, Web Components, Lit, REST/internal APIs, Go, SQL/PostgreSQL, Supabase, Cloudflare, automated testing, CI/CD, accessibility, SEO, and performance**.
 
-### Architecture & Engineering
+I’m open to **Full Stack Engineer, Full Stack Developer, Software Engineer, Product Engineer, and Frontend Engineer** opportunities.
 
-* Frontend Architecture
-* Design Systems
-* Web Components
-* Lit
-* Shadow DOM
-* REST APIs
-* Event-driven systems
-* Server-Sent Events (SSE)
-* CI/CD
-* Automated Testing
+## Current work
 
----
+- Build and evolve product surfaces for privacy, LGPD compliance, and digital auditing.
+- Translate requirements and business rules into clear, maintainable product flows.
+- Work across Angular/React interfaces, Go services, APIs, SQL/PostgreSQL, events, integrations, and Cloudflare services when a feature requires end-to-end ownership.
+- Contributed to a framework-agnostic consent UI and enforcement flow with Web Components, Lit, Shadow DOM, Cloudflare Workers, KV, D1, Durable Objects, configuration, and audit events.
+- Use Vitest, automated testing, code review, CI/CD, debugging, accessibility, SEO, and performance practices in production delivery.
 
-## Open Source
+## Selected work
 
-### Stoat
+### FechaRacha — collaborative contribution goals
 
-Contributing to an open-source product by identifying **UX issues** and turning them into technical improvements that make the product clearer and more intuitive for users.
+Web product for creating group contribution goals, inviting participants, and tracking declared contributions without moving or holding money. Built authentication, data, invitation, validation, and notification flows; behavioral tests cover authorization, membership-aware visibility, invitation limits, and state transitions.
 
-My contributions combine **user experience, product thinking and frontend engineering** to solve real-world problems.
+**Stack:** Next.js · React · TypeScript · Supabase · PostgreSQL · Prisma · Resend · Zod · Vitest
 
----
+### Terto Beats — digital-assets marketplace
 
-## Selected Projects
+Built product flows for a personal digital-assets marketplace: authentication, persistence, orders, checkout, payment-provider validation, Stripe and Mercado Pago webhooks, and shared paid-order fulfillment.
 
-### Terto Beats
+**Stack:** Next.js · TypeScript · Supabase · Stripe · Mercado Pago · Vitest
 
-Digital platform for selling digital products, built with **Next.js, TypeScript and Supabase**.
+### Diário de Campo Escoteiro — offline-first PWA
 
-Focused on product flows, checkout, state management, data persistence and post-purchase experiences.
+Installable field-record application with local data, a service worker, and automatic synchronization after reconnection.
 
-### RendeCerto
+**Stack:** React · TypeScript · Vite · Tailwind · PouchDB · CouchDB
 
-Financial web application built with **Next.js, TypeScript and Vitest**, focused on reliable calculations, business rules and automated testing.
+### RendaCerto — investment-yield simulator
 
-### Quebrando Fronteiras
+Financial simulation web application with deterministic calculation rules, scenario comparisons, readable outputs, SEO/sitemap configuration, and financial-disclaimer documentation.
 
-Web platform focused on social interaction and user experience, with work involving frontend development and improvements to critical product flows.
+**Stack:** Next.js · TypeScript · ApexCharts
 
----
+## Open source
 
-## GitHub Statistics
+### Stoat for Web
 
-<div align="center">
+Volunteer frontend contribution to Stoat’s official web client. A [file-size validation-error fix](https://github.com/stoatchat/for-web/pull/1518) was merged by the maintainers.
 
-<img height="180em"
-src="https://github-readme-stats-fast.vercel.app/api?username=devAndreNicolas&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0D1117&title_color=61DAFB&text_color=61DAFB&icon_color=61DAFB"
-alt="GitHub Stats - André Nicolas"
-/>
+## Engineering focus
 
-<img height="180em"
-src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devAndreNicolas&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=61DAFB"
-alt="Top Languages - André Nicolas"
-/>
+`TypeScript` `Angular` `React` `Next.js` `Astro` `Go` `SQL` `PostgreSQL` `Supabase` `Cloudflare` `Web Components` `Lit` `REST APIs` `Authentication` `Authorization` `Webhooks` `Vitest` `CI/CD` `Accessibility` `SEO` `Performance` `Generative AI`
 
-</div>
+## Education
+
+**Tecnólogo em Sistemas para Internet** · UNCISAL, Brazil · Completed 2026
+
+## Languages
+
+Portuguese (native) · English (advanced, continuously improving)
 
 ---
 
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/devandrenicolas/)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:devandrenicolas@gmail.com)
-
-</div>
+If you’re building product-focused web systems, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/devandrenicolas/) or [email](mailto:devandrenicolas@gmail.com).
