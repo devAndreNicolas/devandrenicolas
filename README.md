@@ -2,7 +2,7 @@
 
 # André Nicolas
 
-### Full Stack Engineer · Go · Java · TypeScript · AI Product & Systems
+### Full Stack Engineer · Go · Java · TypeScript · AI & Product Engineering
 
 [Portfolio](https://portfolio-andrenicolas.vercel.app) · [LinkedIn](https://www.linkedin.com/in/devandrenicolas/) · [Email](mailto:devandrenicolas@gmail.com)
 
