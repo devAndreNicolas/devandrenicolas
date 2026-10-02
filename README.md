@@ -2,7 +2,7 @@
 
 # André Nicolas
 
-### Full Stack Engineer · TypeScript · React · Angular · Product Systems
+### Full Stack Engineer · Java · TypeScript · AI Product & Systems
 
 [Portfolio](https://portfolio-andrenicolas.vercel.app) · [LinkedIn](https://www.linkedin.com/in/devandrenicolas/) · [Email](mailto:devandrenicolas@gmail.com)
 
@@ -10,21 +10,23 @@
 
 ## About
 
-I’m a **Full Stack Engineer** focused on building reliable web products from requirements and business rules through implementation, testing, and production support.
+I’m a **Full Stack Engineer and Software Engineer** focused on product, systems, and problem ownership. I take work from requirements, business rules, scope, and technical decisions through implementation, refinement, debugging, production delivery, and support.
 
-At **MSPA**, I contribute to privacy, LGPD-compliance, and digital-auditing SaaS surfaces used by **10+ companies**. My work connects product context to delivery across interfaces, APIs, data, and platform concerns.
+At **MSPA**, I contribute to privacy, LGPD-compliance, and digital-auditing SaaS surfaces used by **10+ companies**. My work spans Angular and React interfaces, Go services, REST/internal APIs, SQL/PostgreSQL, asynchronous processing, events/SSE, integrations, and Cloudflare/edge systems when a product problem requires end-to-end work.
 
-I work with **TypeScript, Angular, React, Signals, RxJS, Next.js, Astro, Web Components, Lit, REST/internal APIs, Go, SQL/PostgreSQL, Supabase, Cloudflare, automated testing, CI/CD, accessibility, SEO, and performance**.
+I work with **Java, TypeScript, Angular, React, Signals, RxJS, Next.js, Astro, Web Components, Lit, Hexagonal Architecture, REST APIs, Go, SQL/PostgreSQL, database migrations, Supabase, Cloudflare, automated testing, CI/CD, accessibility, SEO, performance, and AI product engineering**.
 
 I’m open to **Full Stack Engineer, Full Stack Developer, Software Engineer, Product Engineer, and Frontend Engineer** opportunities.
 
-## Current work
+## How I work
 
-- Build and evolve product surfaces for privacy, LGPD compliance, and digital auditing.
-- Translate requirements and business rules into clear, maintainable product flows.
-- Work across Angular/React interfaces, Go services, APIs, SQL/PostgreSQL, events, integrations, and Cloudflare services when a feature requires end-to-end ownership.
-- Contributed to a framework-agnostic consent UI and enforcement flow with Web Components, Lit, Shadow DOM, Cloudflare Workers, KV, D1, Durable Objects, configuration, and audit events.
-- Use Vitest, automated testing, code review, CI/CD, debugging, accessibility, SEO, and performance practices in production delivery.
+- Build and evolve privacy, LGPD-compliance, and digital-auditing SaaS product surfaces.
+- Translate requirements, business rules, and product constraints into scope, technical decisions, clear user journeys, and maintainable software.
+- Work across Angular/React interfaces, Go services, APIs, SQL/PostgreSQL, migrations, concurrency, asynchronous processing, events/SSE, integrations, automations, and Cloudflare services when a feature requires end-to-end ownership.
+- Participate in architecture and implementation using Hexagonal Architecture, component-based architecture, separation of concerns, reusable systems, and maintainable application boundaries.
+- Contributed to a framework-agnostic consent UI and enforcement flow with Web Components, Lit, Shadow DOM, Cloudflare Workers, KV, D1, Durable Objects, managed configuration, and audit events.
+- Use Codex, Claude, Cursor, CodeRabbit, MCPs, agents, and specification-driven development as an AI-native workflow for exploration, codebase understanding, review, investigation, test generation, and iteration—while keeping human technical judgment accountable for the result.
+- Use Vitest, automated testing, code review, CI/CD, deployment, debugging, accessibility, SEO, and performance practices in production delivery.
 
 ## Selected work
 
@@ -46,7 +48,19 @@ Installable field-record application with local data, a service worker, and auto
 
 **Stack:** React · TypeScript · Vite · Tailwind · PouchDB · CouchDB
 
-### RendaCerto — investment-yield simulator
+### Saúde em Campo — offline-first field-work architecture
+
+Designed an offline-first mobile architecture for teams recording field visits and health information without stable connectivity. The design specifies per-user local data isolation, a sync queue, idempotency keys, retries/backoff, role-based access, and risk-prioritization rules. This is architecture/design evidence, not a clinical-deployment claim.
+
+**Stack:** React Native · Expo · TypeScript · SQLite · Drizzle · TanStack Query
+
+### Missões do Dia — Java and Android foundation
+
+Academic Android CRUD application for mission management, built with local persistence and native platform components. Java is part of my academic and project foundation; this project is not presented as a professional Java/Spring role.
+
+**Stack:** Java · Android SDK · SQLite · SharedPreferences · Service · BroadcastReceiver · AsyncTask · Activity · XML layouts
+
+### RendaFácil — investment-yield simulator
 
 Financial simulation web application with deterministic calculation rules, scenario comparisons, readable outputs, SEO/sitemap configuration, and financial-disclaimer documentation.
 
@@ -60,7 +74,7 @@ Volunteer frontend contribution to Stoat’s official web client. A [file-size v
 
 ## Engineering focus
 
-`TypeScript` `Angular` `React` `Next.js` `Astro` `Go` `SQL` `PostgreSQL` `Supabase` `Cloudflare` `Web Components` `Lit` `REST APIs` `Authentication` `Authorization` `Webhooks` `Vitest` `CI/CD` `Accessibility` `SEO` `Performance` `Generative AI`
+`Java` `Android SDK` `TypeScript` `Angular` `React` `Next.js` `Astro` `Go` `SQL` `PostgreSQL` `Database Migrations` `Supabase` `Cloudflare` `Web Components` `Lit` `Hexagonal Architecture` `REST APIs` `Server-Sent Events` `Event-Driven Systems` `Authentication` `Authorization` `Webhooks` `Vitest` `CI/CD` `Accessibility` `SEO` `Performance` `Generative AI` `AI Product Engineering`
 
 ## Education
 
